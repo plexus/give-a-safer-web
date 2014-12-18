@@ -46,9 +46,7 @@ Tweet #xmasupgrade
 window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
 </script>
 
-<small>[clone me on github](https://github.com/plexus/give-a-safer-web)</small>
+<small>[help improve this website](https://github.com/plexus/give-a-safer-web)</small>
 
   </div>
 </div>
-
-Going home for Christmas? Don't forget to upgrade the browsers of your loved ones!  http://give-a-safer-web.org/
