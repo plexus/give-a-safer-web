@@ -35,7 +35,7 @@ The latest stable versions are
 
 By upgrading their browsers you are not only helping them to stay safe on-line, you are also making the world a slightly better place. People creating sites and applications for the web need to make sure their products work on all browsers that are still in common use, including the older ones.
 
-Web related technologies and standards have evolved dramatically in recent years, making newer browsers much more powerful, and easier to target. Having to support these older browsers is tedious, it hampers progress, and comes at a huge cost for the economy. Worst of all, it makes all those designers and programmers creating your internet a little less happy. And nobody should be unhappy at Christmas time!
+Web related technologies and standards have evolved dramatically in recent years, making newer browsers much more powerful, with much more consistent support for the features needed for modern web sites and applications. Having to support these older browsers is tedious, it hampers progress, and comes at a huge cost for the economy. Worst of all, it makes all those designers and programmers creating your internet a little less happy. And nobody should be unhappy at Christmas time!
 
 <a class="twitter-hashtag-button"
   href="https://twitter.com/intent/tweet?button_hashtag=xmasupgrade&text=Going%20home%20for%20Christmas%3F%20Don%27t%20forget%20to%20upgrade%20the%20browsers%20of%20your%20loved%20ones!%20http%3A%2F%2Fgive-a-safer-web.org%2F"
