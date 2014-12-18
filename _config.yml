@@ -1,0 +1,4 @@
+name: Give a Safer Web
+markdown: kramdown
+kramdown:
+  input: GFM
