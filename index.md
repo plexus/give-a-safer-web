@@ -23,3 +23,5 @@ By upgrading their browsers you are not only helping them to stay safe on-line, 
 Web related technologies and standards have evolved dramatically in recent years, making newer browsers much more powerful, and easier to target. Having to support these older browsers is tedious, it hampers progress, and comes at a huge cost for the economy. Worst of all, it makes all those designers and programmers creating your internet a little less happy. And nobody should be unhappy at Christmas time!
 
 Tweet example: "Going home for Christmas? Don't forget to upgrade the browsers of your loved ones!  http://give-a-safer-web.org/ #xmasupgrade"
+
+<small>[clone me on github](https://github.com/plexus/give-a-safer-web)</small>
